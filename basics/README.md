@@ -5,3 +5,4 @@
 4-listmorefiles: display current contents, including hidden files. Using the long format.
 5-listfilesdigitonly: Display current directoy contents, long format, with user and group IDs displayed numerically and hidden files.
 6-firstdirectory: create a dir name my_first_directory in the /tmp dir.
+7-movethatfile: Move betty from /tmp to /tmp/my_first_directory.

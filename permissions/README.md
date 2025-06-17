@@ -12,3 +12,5 @@
 11-directories_permissions: adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 12-directory_permissions: creates a directory called my_dir with permissions 751 in the working directory
 13-change_group: changes the group owner to the school for the file hello
+14-change_owner_and_group: changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+15-symbolic_link_permissions: changes the owner and the group owner fo _hello to vincent and staff respectively. the file _hello is in the working directory and is a symbolic link

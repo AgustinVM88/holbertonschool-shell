@@ -1,2 +1,2 @@
 #!/bin/bash
-stat -c %U hello | grep "^guillaume$" | xargs -I{} sudo chown vincent hello
+stat -c %U hello | grep "^guillaume$" | xargs -I{} chown vincent hello
